@@ -28,6 +28,6 @@ public class madLibsRohit {
         System.out.println(fixedPhrase1 + blank1 + fixedPhrase2 + blank2 + fixedPhrase3 + blank3 + fixedPhrase4 + blank4 + "\n" + fixedPhrase5 + blank5 + fixedPhrase6 + blank6 + fixedPhrase7);
 
         sc.close();
-
+ 
     }
 }
