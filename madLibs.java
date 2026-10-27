@@ -15,7 +15,7 @@ public class madLibsRohit {
         String blank1 = sc.nextLine();
         System.out.println("Enter what you would like to put for the second blank of the mad lib.");
         String blank2 = sc.nextLine();
-        System.out.println("Enter what you woudl like to put for the third blank of the mad lib.");
+        System.out.println("Enter what you would like to put for the third blank of the mad lib.");
         String blank3 = sc.nextLine();
         System.out.println("Enter what you would like to put for the fourth blank of the mad lib.");
         String blank4 = sc.nextLine();
